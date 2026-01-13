@@ -40,15 +40,18 @@ I don’t just write code — I care about **how systems are designed, optimized
 * Learning **Rust** to deepen my understanding of performance, memory safety, and low-level programming.
 
 ---
-
 ## 📊 GitHub Stats
 
-![Stats di Vagno](https://github-readme-stats.vercel.app/api?username=VagnoDev&show_icons=true&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VagnoDev&show_icons=true&theme=dark&hide_border=true" alt="Stats di Vagno" />
+</p>
 
-![Streak di Vagno](https://github-readme-streak-stats.herokuapp.com/?user=VagnoDev&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=VagnoDev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnoDev&layout=compact&theme=dark&hide_border=true)
-
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnoDev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
 
 > ⚙️ Always building. Always improving.
