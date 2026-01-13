@@ -48,7 +48,7 @@ I don’t just write code — I care about **how systems are designed, optimized
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=VagnoDev&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="[https://streak-stats.demolab.com?user=VagnoDev&theme=dark&hide_border=true](https://streak-stats.demolab.com/?user=VagnoDev&theme=dark)" alt="GitHub Streak" />
   </a>
 </p>
 
