@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Vagno
+# Hi, I'm Vagno
 
-## 🚀 About Me
+## About Me
 
 I’m a **developer** focused on building real, functional projects.
 I work mainly on **Discord bots** and **modern websites**, with a strong interest in scalable and well-structured systems.
@@ -9,7 +9,7 @@ I don’t just write code — I care about **how systems are designed, optimized
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5" />
@@ -23,15 +23,15 @@ I don’t just write code — I care about **how systems are designed, optimized
 
 ---
 
-## 🤖 What I Build
+## What I Build
 
-* 🤖 **Discord Bots** (automation, moderation systems, complex logic)
-* 🌐 **Websites** (modern, responsive, performance-oriented)
-* 🧩 **Long-term projects** focused on scalability and maintainability
+* **Discord Bots** (automation, moderation systems, complex logic)
+* **Websites** (modern, responsive, performance-oriented)
+* **Long-term projects** focused on scalability and maintainability
 
 ---
 
-## 🦀 Currently Learning
+## Currently Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" alt="rust" />
@@ -40,20 +40,3 @@ I don’t just write code — I care about **how systems are designed, optimized
 * Learning **Rust** to deepen my understanding of performance, memory safety, and low-level programming.
 
 ---
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github.vagno.dev/api?username=VagnoDev&show_icons=true&theme=dark&hide_border=true" alt="Stats di Vagno" />
-</p>
-
-<p align="left">
-  <a href="https://streak.vagno.dev/?user=VagnoDev&theme=dark&hide_border=true">
-    <img src="https://streak.vagno.dev?user=VagnoDev&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://github.vagno.dev/api/top-langs/?username=VagnoDev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
-
-> ⚙️ Always building. Always improving.
