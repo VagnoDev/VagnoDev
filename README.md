@@ -34,7 +34,7 @@ I don’t just write code — I care about **how systems are designed, optimized
 ## Currently Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" alt="rust" />
+https://camo.githubusercontent.com/0e6d892b485daf02187bfab27efff494f833f57c7794de5157ed85e41d68490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374
 </p>
 
 * Learning **Rust** to deepen my understanding of performance, memory safety, and low-level programming.
