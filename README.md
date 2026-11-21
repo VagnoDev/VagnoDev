@@ -1,42 +1,14 @@
-# Hi, I'm Vagno
+# Vagno
 
-## About Me
+Developer building Discord bots and modern websites.
 
-I’m a **developer** focused on building real, functional projects.
-I work mainly on **Discord bots** and **modern websites**, with a strong interest in scalable and well-structured systems.
+I care about how systems are designed, optimized and evolved over time. Most of my work is about keeping things fast, structured and easy to grow: bots that handle real traffic, sites that stay maintainable past the first release.
 
-I don’t just write code — I care about **how systems are designed, optimized, and evolved over time**.
+Currently working with Rust on performance-critical parts, and TypeScript for everything user-facing.
 
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript" />
+<p>
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
 </p>
-
-* **HTML / CSS** – website structure and styling
-* **JavaScript / TypeScript** – logic, backend, Discord bots and web apps
-
----
-
-## What I Build
-
-* **Discord Bots** (automation, moderation systems, complex logic)
-* **Websites** (modern, responsive, performance-oriented)
-* **Long-term projects** focused on scalability and maintainability
-
----
-
-## Currently Learning
-
-<p align="left">
-https://camo.githubusercontent.com/0e6d892b485daf02187bfab27efff494f833f57c7794de5157ed85e41d68490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374
-</p>
-
-* Learning **Rust** to deepen my understanding of performance, memory safety, and low-level programming.
-
----
